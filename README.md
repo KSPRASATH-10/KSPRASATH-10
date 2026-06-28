@@ -8,7 +8,7 @@
 
 * **FinPilot AI:** Engineered an autonomous, cross-platform financial tracking backend featuring a high-concurrency Express gateway, sliding-window caching engines, and an asynchronous, thread-isolated text tokenization pipeline.
 * **TradeForge:** Built a containerized multi-runtime algorithmic backtesting simulation layout splitting web nodes from heavy computational Python arrays to track portfolio risk-reward metrics.
-* **Orchestrate AI Support Agent:** Built a deterministic Python triage agent for the HackerRank Orchestrate 24-hour hackathon, incorporating a local TF-IDF retrieval index to completely eliminate context drift or hallucinations.
+<!--* **Orchestrate AI Support Agent:** Built a deterministic Python triage agent for the HackerRank Orchestrate 24-hour hackathon, incorporating a local TF-IDF retrieval index to completely eliminate context drift or hallucinations.  -->
 
 ---
 
