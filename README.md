@@ -1,6 +1,6 @@
 # Sakthi Prasath K
 
-**Systems & Full-Stack Engineer** | *Information Technology at Anna University (2024–2028)* Specializing in highly concurrent backend frameworks, multi-container orchestration, and deterministic AI/Data data structures.
+**Aspiring Systems & Full-Stack Engineer** | *Information Technology at Anna University (2024–2028)* Specializing in highly concurrent backend frameworks, multi-container orchestration, and deterministic AI/Data data structures.
 
 ---
 
@@ -33,3 +33,4 @@
 ### 🌐 Let's Connect
 * **Email:** sakthikp06@gmail.com
 * **GitHub Main Track:** [github.com/KSPRASATH-10](https://github.com/KSPRASATH-10)
+* **Portfolio:** https://ksp-portfolio-axjm-git-main-ksprasath-10s-projects.vercel.app/
