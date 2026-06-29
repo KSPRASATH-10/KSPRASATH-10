@@ -1,6 +1,6 @@
 # Sakthi Prasath K
 
-**Aspiring Systems & Full-Stack Engineer** | *Information Technology at Anna University (2024–2028)* Specializing in highly concurrent backend frameworks, multi-container orchestration, and deterministic AI/Data data structures.
+**Aspiring Systems & Full-Stack Engineer** | *Information Technology Undergrad at Anna University (2024–2028)* Specializing in highly concurrent backend frameworks, multi-container orchestration, and deterministic AI/Data data structures.
 
 ---
 
